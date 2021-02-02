@@ -7,3 +7,5 @@ Use virtualbox as vm-driver
 minikube service list
 
 use the ip:port to configure mysql client
+
+https://medium.com/@wisegain/minikube-cheat-sheet-a273385e66c9
